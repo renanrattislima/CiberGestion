@@ -1,0 +1,563 @@
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\msvcr100.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\msvcr100.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll.config
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.pdb
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Antlr3.Runtime.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\EntityFramework.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Common.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.DataVisualization.DLL
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Design.DLL
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebDesign.DLL
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WinForms.DLL
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.SqlServer.Types.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Ninject.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Http.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Optimization.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Providers.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\WebActivatorEx.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\WebGrease.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.pdb
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\EntityFramework.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Ninject.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Http.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.xml
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csprojResolveAssemblyReference.cache
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\obj\Debug\RdlCompile.cache
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\obj\Debug\RdlCompile.compiled
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.dll
+E:\Projetos\Whirlpool\AcademiaVarejo\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.pdb
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\msvcr100.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\msvcr100.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll.config
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.pdb
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Antlr3.Runtime.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\EntityFramework.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Common.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.DataVisualization.DLL
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Design.DLL
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebDesign.DLL
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WinForms.DLL
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.SqlServer.Types.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Http.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Optimization.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Providers.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\WebActivatorEx.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\WebGrease.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\EnvDTE.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\EnvDTE80.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\stdole.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.VSHelp.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\VSLangProj.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Data.Services.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Data.Core.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\VSLangProj80.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.MSXML.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\VSLangProj2.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.pdb
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll.config
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\EntityFramework.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Http.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.xml
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\bin\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csprojResolveAssemblyReference.cache
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.dll
+E:\Projetos\Whirlpool\MaisTop\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.pdb
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\msvcr100.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\msvcr100.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll.config
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.pdb
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Antlr3.Runtime.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\EntityFramework.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Common.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Design.DLL
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebDesign.DLL
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WinForms.DLL
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.SqlServer.Types.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Ninject.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Http.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Optimization.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Providers.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\WebActivatorEx.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\WebGrease.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\EnvDTE.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\EnvDTE80.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\stdole.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Microsoft.MSXML.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.pdb
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll.config
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\EntityFramework.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Ninject.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Http.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.xml
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csprojResolveAssemblyReference.cache
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.dll
+C:\ProjetosGit\Whirpool\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.pdb
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\msvcr100.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\msvcr100.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll.config
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.pdb
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Antlr3.Runtime.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\EntityFramework.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Common.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.DataVisualization.DLL
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Design.DLL
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebDesign.DLL
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebForms.DLL
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WinForms.DLL
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.SqlServer.Types.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Http.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Optimization.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Providers.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\WebActivatorEx.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\WebGrease.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\RestSharp.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\EnvDTE.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\EnvDTE80.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\stdole.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.VSHelp.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\VSLangProj.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Data.Services.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Data.Core.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\VSLangProj80.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.MSXML.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\VSLangProj2.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.pdb
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll.config
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\EntityFramework.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Http.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\RestSharp.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.xml
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\bin\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csprojResolveAssemblyReference.cache
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.dll
+E:\Projetos-Git\Whirpool-MaisTop\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.pdb
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\msvcr100.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\msvcr100.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll.config
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.pdb
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Antlr3.Runtime.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Common.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.DataVisualization.DLL
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Design.DLL
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebDesign.DLL
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebForms.DLL
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WinForms.DLL
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.SqlServer.Types.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Ninject.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Optimization.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Providers.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\WebActivatorEx.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\WebGrease.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\RestSharp.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\EnvDTE.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\EnvDTE80.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\stdole.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Microsoft.MSXML.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.pdb
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll.config
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Ninject.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\bin\RestSharp.xml
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csprojResolveAssemblyReference.cache
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.dll
+F:\Projetos GIT\WHP-Whirlpool-Mais-Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.pdb
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\msvcr100.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\msvcr100.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll.config
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.pdb
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Antlr3.Runtime.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Design.DLL
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.SqlServer.Types.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Optimization.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Providers.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\WebActivatorEx.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\WebGrease.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\RestSharp.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\EnvDTE.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\EnvDTE80.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\stdole.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\VSLangProj.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\VSLangProj80.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.MSXML.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\VSLangProj2.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.pdb
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll.config
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\RestSharp.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\bin\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csprojResolveAssemblyReference.cache
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csproj.CoreCompileInputs.cache
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.pdb
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\msvcr100.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\msvcr100.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll.config
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.MVC.pdb
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Antlr3.Runtime.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.Design.DLL
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.SqlServer.Types.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\ReportViewerForMvc.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Optimization.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Providers.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\WebActivatorEx.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\WebGrease.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\RestSharp.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\EnvDTE.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\EnvDTE80.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\stdole.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\VSLangProj.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\VSLangProj80.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.MSXML.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\VSLangProj2.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.pdb
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\CiberGestion.Dominio.dll.config
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Common.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Mvc.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Newtonsoft.Json.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.Razor.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\RestSharp.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Interaction.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\bin\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.csproj.CopyComplete
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.MVC\obj\Debug\CiberGestion.MVC.pdb

@@ -1,0 +1,14 @@
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.dll.config
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.dll
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.pdb
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.dll
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\RestSharp.dll
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.xml
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\bin\Debug\RestSharp.xml
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.csprojAssemblyReference.cache
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.csproj.CopyComplete
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.dll
+C:\Projetos\Admin2\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.pdb

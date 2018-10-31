@@ -1,0 +1,27 @@
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.dll.config
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.pdb
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\RestSharp.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\RestSharp.xml
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.dll
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.pdb
+C:\Users\renan.lima\source\repos\WHP - Whirlpool - Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.dll.config
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\CiberGestion.Dominio.pdb
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\RestSharp.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\bin\Debug\RestSharp.xml
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.csproj.CopyComplete
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.dll
+C:\Users\leonardo.santos\Desktop\Fullbar\Repositorio\Mais Top\Admin\src\CiberGestion.Dominio\obj\Debug\CiberGestion.Dominio.pdb

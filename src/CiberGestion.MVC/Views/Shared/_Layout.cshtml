@@ -1,0 +1,152 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador :: </title>
+
+    <!-- Core CSS - Include with every page -->
+    <link href="/assets/css/vendor/bootstrap.css" rel="stylesheet">
+    <link href="/assets/fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+    @*<link href="/assets/css/vendor/jquery-ui.css" rel="stylesheet">
+        <link href="/assets/css/vendor/jquery-ui.structure.css" rel="stylesheet">
+        <link href="/assets/css/vendor/jquery-ui.theme.css" rel="stylesheet">*@
+
+    <!-- Page-Level Plugin CSS - Dashboard -->
+    <link href="/assets/css/vendor/morris-0.4.3.min.css" rel="stylesheet">
+    <link href="/assets/css/vendor/timeline.css" rel="stylesheet">
+
+    <!-- SB Admin CSS - Include with every page -->
+    <link href="/assets/css/vendor/sb-admin.css" rel="stylesheet">
+
+    <!-- Custom -->
+    <link href="/assets/css/main.css" rel="stylesheet">
+
+    @RenderSection("headers", required: false)
+</head>
+<body>
+    <form id="form1">
+        <div id="wrapper">
+            <nav class="navbar navbar-default navbar-fixed-top navbar-default-color" role="navigation" style="margin-bottom: 0;">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/Home/">Painel <strong>Administrativo</strong></a>
+                </div>
+                <!-- /.navbar-header -->
+
+                <ul class="nav navbar-top-links navbar-right">
+                    <!-- /.dropdown -->
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                            <i class="fa fa-user fa-fw"></i>
+                            <i class="fa fa-caret-down"></i>
+                        </a>
+                        <ul class="dropdown-menu dropdown-user">
+                            <li><a href="/Login/Logout/"><i class="fa fa-sign-out fa-fw"></i> Sair</a></li>
+                        </ul>
+                        <!-- /.dropdown-user -->
+                    </li>
+                    <!-- /.dropdown -->
+                </ul>
+                <!-- /.navbar-top-links -->
+                <!-- /.navbar-static-side -->
+            </nav>
+
+            <div class="navbar-default navbar-static-side" role="navigation">
+                <div class="sidebar-collapse">
+                    <img src="/assets/img/logo.png" id="logo-admin" />
+                    <ul class="nav" id="side-menu">
+                        <li>
+                            <a href=""><i class="fa fa-file fa-fw"></i> Colaboradores</a>
+                            <ul class="nav nav-second-level">
+                                <li><a href="/Cadastro/Novo">Novo</a></li>
+                                <li><a href="/Cadastro">Cadastrados</a></li>
+
+                            </ul>
+                        </li>
+
+
+                       
+
+                    </ul>
+                    <!-- /#side-menu -->
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+
+            @RenderBody()
+
+            <br /><br />
+            <nav class="navbar navbar-default navbar-fixed-bottom navbar-default-color text-center" role="navigation" style="margin-bottom: 0; height: 50px;">
+                <img src="/assets/img/logoFullbarFooter.png" style="padding: 5px;" />
+                <!-- /.navbar-static-side -->
+            </nav>
+        </div>
+        <!-- /#wrapper -->
+    </form>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" style="width:350px;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close fechar" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body" id="myModalTexto">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default fechar" data-dismiss="modal">Fechar</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+
+    <div id="loading"></div>
+
+    <!-- Core Scripts - Include with every page -->
+    <script src="/assets/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="/assets/js/vendor/bootstrap.min.js"></script>
+    <script src="/assets/js/vendor/jquery.metisMenu.js"></script>
+
+    <!-- SB Admin Scripts - Include with every page -->
+    <script src="/assets/js/vendor/sb-admin.js"></script>
+
+    <!-- Page-Level Plugin Scripts - Tables -->
+    <script src="/assets/js/vendor/jquery.dataTables.js"></script>
+    <script src="/assets/js/vendor/dataTables.bootstrap.js"></script>
+    <script src="/assets/js/vendor/jquery.maskedinput.min.js"></script>
+    <script src="/assets/js/vendor/jquery.mask.js"></script>
+    <script src="/assets/js/vendor/jquery-ui.js"></script>
+    <script src="/assets/js/vendor/jquery.customSelect.min.js"></script>
+
+    <script src="/assets/js/vendor/bootstrap-confirmation.min.js"></script>
+
+    <!-- Custom -->
+    <script src="/assets/js/main.js"></script>
+
+    <!-- Page-Level Demo Scripts - Tables - Use for reference -->
+    <script>
+        $(document).ready(function () {
+            $('#dataTables').dataTable();
+            $('#dataTables_filter').css("text-align", "right");
+            $('#dataTables_paginate').css("text-align", "right");
+
+            //$('#<%=txtCPF.ClientID.ToString()%>').mask('999.999.999-99');
+            //$('#<%=txtDe.ClientID.ToString()%>').mask('99/99/9999');
+            //$('#<%=txtAte.ClientID.ToString()%>').mask('99/99/9999');
+        });
+    </script>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

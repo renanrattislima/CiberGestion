@@ -1,0 +1,198 @@
+﻿@model CiberGestion.Dominio.Entidade.Usuario
+
+@{
+    ViewBag.Title = "Cibergestion :: Cadastro Colaborador (Novo)";
+}
+
+<div id="page-wrapper">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                <strong>Cadastro Colaborador (Novo)</strong>
+            </h1>
+        </div>
+    </div>
+    <!-- /.row -->
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-primary">
+                <div class="panel-body">
+
+
+                    @using (@Html.BeginForm("Novo", "Cadastro", FormMethod.Post, new { id = "formCadastroNovo" }))
+                    {
+
+                        <div class="row">
+
+
+                            <div class="form-group">
+                                <label>Nome </label>
+                                <input type="text" id="dsNome" style="width: 403px;" class="form-control" value="" />
+                            </div>
+
+                            <div class="form-group">
+                                <label>Telefone </label>
+                                <input type="text" id="dsTelefone" style="width: 403px;" class="form-control" value="" />
+                            </div>
+
+
+                            <div class="form-group">
+                                <label>Tipo de Telefone:</label>
+                                <br />
+                                <select id="dsTipoTelefone" name="Tipo" class="form-control">
+                                    <option value="">Selecione ...</option>
+                                    <option value="Celular">Celular</option>
+                                    <option value="Residencial">Residencial</option>
+                                    <option value="Trabalho">Trabalho</option>
+                                    <option value="Whatsapp">Whatsapp</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="form-group">
+                                <a href="~/Cadastro"><input type="button" value="Voltar" id="Voltar" class="btn btn-primary" /></a>
+                                <input type="button" value="Confirmar Cadastro" id="Finalizar" name="Finalizar" class="btn btn-primary" />
+                            </div>
+
+                        </div>
+
+                        <input type="hidden" id="idUsuario" name="idUsuario" value="0" />
+                    }
+                </div>
+            </div>
+
+            <!-- /.panel -->
+        </div>
+        <!-- /.col-lg-12 -->
+    </div>
+    <!-- /.row -->
+</div>
+
+
+
+
+
+@section scripts
+{
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
+    <script>
+
+        $(function () {
+
+
+            jQuery("#dsTelefone")
+                .mask("(99) 99999-9999")
+                .focusout(function (event) {
+                    var target, phone, element;
+                    target = (event.currentTarget) ? event.currentTarget : event.srcElement;
+                    phone = target.value.replace(/\D/g, '');
+                    element = $(target);
+                    element.unmask();
+                    if (phone.length > 10) {
+                        element.mask("(99) 99999-9999");
+                    } else {
+                        element.mask("(99) 9999-9999");
+                    }
+                });
+
+
+            $("#Finalizar").click(function (event) {
+                event.preventDefault();
+
+
+                //dados
+                var idUsuario = $("#idUsuario").val();
+                var dsNome = $("#dsNome").val();
+                var dsTelefone = $("#dsTelefone").val();
+                var dsTipoTelefone = $("#dsTipoTelefone").val();
+
+                if (dsNome.length == 0 || dsNome == "") {
+
+                    alert('Digite um Nome para o colaborador');
+                    $("#").focus();
+                    return;
+                }
+
+                if (dsTelefone.length == 0 || dsNome == "") {
+
+                    alert('Preencha o Telefone');
+                    $("#dsCNPJ").focus();
+                    return;
+                }
+
+                if (dsTipoTelefone.length == 0 || dsTipoTelefone == undefined) {
+
+                    alert('Preencha o Tipo de Telefone');
+                    $("#dsLoja").focus();
+                    return;
+                }
+
+
+
+                var r = confirm("Olá, Confirma inclusão do cadastro do colaborador " + dsNome + " ?");
+                if (r == false) {
+                    return;
+                }
+
+                var data = {
+
+                    idUsuario: idUsuario,
+                    dsNome: dsNome,
+                    dsTelefone: dsTelefone,
+                    dsTipoTelefone: dsTipoTelefone
+                };
+
+                var formData = new FormData();
+
+                formData.append("strDados", JSON.stringify(data));
+
+
+                $("#loading").fadeIn();
+                var url = "/Cadastro/SalvarCadastro";
+                $.ajax({
+                    type: "POST",
+                    url: url,
+                    data: formData,
+                    contentType: false,
+                    processData: false,
+                    success: function (response) {
+                        if (response.id > 0) {
+
+                            $("#loading").fadeOut();
+
+                            alert(response.dsMensagem, "Cadastro salvo com sucesso !");
+                            setTimeout(function () {
+                                window.location.href = '/Cadastro/Index'
+                            }, 2000);
+
+
+                        }
+                        else {
+                            $("#loading").fadeOut();
+                            alert("Atenção!", response.dsMensagem);
+
+
+                        }
+                    },
+                    error: function () {
+                        $("#loading").fadeOut();
+                        alert("Atenção!", "Não foi possível realizar o cadastro.");
+                    },
+                    dataType: "json",
+                    //traditional: true
+                });
+                return false;
+            });
+
+
+
+        });
+
+
+    </script>
+
+
+}
+
