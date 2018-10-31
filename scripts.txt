@@ -1,0 +1,100 @@
+- 
+
+CREATE TABLE [dbo].[TB_UsuarioTelefone](
+	[idUsuario] [int] IDENTITY(1,1) NOT NULL,	
+	[dsNome] [varchar](150) NOT NULL,
+	[dsTelefone] [varchar](20) NOT NULL,
+	[dsTipoTelefone] [varchar](50) NULL,
+	[dsOperacao] [char](1) NOT NULL,
+	[dtOperacao] [datetime] NOT NULL,
+	[dtCadastro] [datetime] NOT NULL,
+	[btAtivo] [bit] NOT NULL,
+ CONSTRAINT [PK_UsuarioTelefone] PRIMARY KEY CLUSTERED 
+(
+	[idUsuario] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+--
+
+
+CREATE PROCEDURE [dbo].[SP_UsuarioTelefoneCadastro]
+                                         @idUsuario  INT,                                           
+                                         @dsNome   VARCHAR(250), 
+										 @dsTelefone  VARCHAR(20),
+										 @dsTipoTelefone   VARCHAR(50)
+AS 
+  BEGIN 
+      SET nocount ON; 
+
+      DECLARE @id INT 
+      DECLARE @dsMensagem VARCHAR(100) 
+
+      IF EXISTS(SELECT * 
+                FROM   TB_UsuarioTelefone 
+                WHERE  idUsuario = @idUsuario) 
+        BEGIN 
+           
+
+			UPDATE [dbo].[TB_UsuarioTelefone]
+			   SET [dsNome] = @dsNome
+			      ,[dsTelefone] = @dsTelefone
+			      ,[dsTipoTelefone] = @dsTipoTelefone
+			     
+			 WHERE idUsuario = @idUsuario
+
+            IF @@ERROR <> 0 
+              BEGIN 
+                  SET @id = 0; 
+                  SET @dsMensagem = Error_message(); 
+              END 
+            ELSE 
+              BEGIN 
+                  SET @id = 1; 
+
+                  SELECT @dsMensagem = 'Cadastro alterado com sucesso' 
+              END 
+        END 
+      ELSE 
+        BEGIN 
+           
+		   
+			INSERT INTO [dbo].[TB_UsuarioTelefone]
+			           ([dsNome]
+			           ,[dsTelefone]
+			           ,[dsTipoTelefone]
+			           ,[dsOperacao]
+			           ,[dtOperacao]
+			           ,[dtCadastro]
+			           ,[btAtivo])
+			     VALUES
+			           (@dsNome
+			           ,@dsTelefone
+			           ,@dsTipoTelefone
+			           ,'I'
+			           ,getdate()
+					   ,getdate()
+				       ,1)
+
+            IF @@ERROR <> 0 
+              BEGIN 
+                  SET @id = 0; 
+                  SET @dsMensagem = Error_message(); 
+              END 
+            ELSE 
+              BEGIN 
+                  SET @id = Scope_identity(); 
+
+                  SELECT @dsMensagem = 'Cadastro efetuado com sucesso' 
+              END 
+        END 
+
+      SELECT @id         AS id, 
+             @dsMensagem AS dsMensagem; 
+  END 
+
+
+
+
